@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<users>
+    <user type="accountmanager">
+        <username>3452</username>
+        <password>123</password>
+        <context>sales</context>
+    </user>
+    <user type="esolutionsengineer">
+        <username>laila</username>
+        <password>123</password>
+        <context>engineering</context>
+    </user>
+    <user type="businesscontroller">
+        <username>or-doc@cs.com</username>
+        <password>123</password>
+        <context>servery</context>
+    </user>
+</users>

@@ -1,0 +1,17 @@
+com\dialog\esr\tests\common\webdriver\env\EnvPropsReader.class
+com\dialog\esr\tests\common\webdriver\db\Databases.class
+com\dialog\esr\tests\common\webdriver\util\GenericUiTestUtil.class
+com\dialog\esr\tests\common\webdriver\db\Database.class
+com\dialog\esr\tests\common\webdriver\env\Profile.class
+com\dialog\esr\tests\common\webdriver\util\PropertyUtil.class
+com\dialog\esr\tests\common\webdriver\util\BasePage.class
+com\dialog\esr\tests\common\webdriver\util\RestAssuredUtil.class
+com\dialog\esr\tests\common\webdriver\util\UserProfile.class
+com\dialog\esr\tests\common\webdriver\env\TestEnv.class
+com\dialog\esr\tests\common\webdriver\util\WebDriverFactory.class
+com\dialog\esr\tests\common\webdriver\db\PostgreDatabaseHelper.class
+com\dialog\esr\tests\ui\test.class
+com\dialog\esr\tests\common\webdriver\util\LoginPageUtil.class
+com\dialog\esr\tests\common\webdriver\profile\EsrProfile.class
+com\dialog\esr\pages\page.class
+com\dialog\esr\tests\common\webdriver\util\AuthPageUtil.class
